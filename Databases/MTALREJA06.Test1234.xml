@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ESBDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>1d49be96-f71b-451d-8b78-6c7f051472f4</Id>
+  <Version>9d5b4e04-2125-4d22-9b54-3d4e39bfc8f9</Version>
+  <BusinessFlows />
+  <Description />
+  <Name>MTALREJA06.Test1234</Name>
+  <IsSystemObject>false</IsSystemObject>
+  <Bindings />
+  <CatalogName>Test1234</CatalogName>
+  <ConnectionString>l7eJyeIO1ORT6yerTT+HD6IWgGsRDYzC3KvGup8ZgSZGVbVHZJzOICoDAmzHgp0LBVNPp0+7mm7P2AZpyIx+OQ==</ConnectionString>
+  <Zone>(All Zones)</Zone>
+  <DatabaseType>SQLServer</DatabaseType>
+</ESBDatabase>

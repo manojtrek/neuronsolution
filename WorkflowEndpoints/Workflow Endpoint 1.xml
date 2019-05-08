@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<EsbWorkflowHost xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>f7343f25-2564-4271-aedf-d2b6626df396</Id>
+  <Version>3074caa3-45f1-46ad-882a-586698703348</Version>
+  <BusinessFlows />
+  <Description />
+  <Name>Workflow Endpoint 1</Name>
+  <IsSystemObject>false</IsSystemObject>
+  <Bindings />
+  <AvailabilityGroupId>Endpoint Host 1</AvailabilityGroupId>
+  <Category>General</Category>
+  <Conditions>
+    <Action>false</Action>
+    <Binary>false</Binary>
+    <BodyType>false</BodyType>
+    <CustomProperties />
+    <DestId>false</DestId>
+    <Duplicate>false</Duplicate>
+    <DuplicateId>false</DuplicateId>
+    <Event>false</Event>
+    <Expires>false</Expires>
+    <FaultTo>false</FaultTo>
+    <FaultType>false</FaultType>
+    <From>false</From>
+    <HttpHeaders />
+    <HttpQueryParameters />
+    <Machine>false</Machine>
+    <ParentMessageId>false</ParentMessageId>
+    <Priority>false</Priority>
+    <RegularExpressions />
+    <RelatesTo>false</RelatesTo>
+    <ReplyTo>false</ReplyTo>
+    <ReplyToMessageId>false</ReplyToMessageId>
+    <ReplyToPartyId>false</ReplyToPartyId>
+    <ReplyToSessionId>false</ReplyToSessionId>
+    <RequestHeadersToPreserve>false</RequestHeadersToPreserve>
+    <RoutingSlip>false</RoutingSlip>
+    <Semantic>false</Semantic>
+    <Session>false</Session>
+    <Sid>false</Sid>
+    <SoapHeaders />
+    <SourceId>false</SourceId>
+    <TargetId>false</TargetId>
+    <To>false</To>
+    <Topic>false</Topic>
+    <TrackingSequence>false</TrackingSequence>
+    <TransactionId>false</TransactionId>
+    <Username>false</Username>
+    <XPathExpressions />
+  </Conditions>
+  <IsEnabled>true</IsEnabled>
+  <IsStoreTrackingValues>true</IsStoreTrackingValues>
+  <IsTrackingEnabled>true</IsTrackingEnabled>
+  <MaximumConcurrentWorkflows>100</MaximumConcurrentWorkflows>
+  <MaximumVariableLength>255</MaximumVariableLength>
+  <MessageTimeout>60</MessageTimeout>
+  <SubscriberId>WorkflowSub</SubscriberId>
+  <Topic>Main2</Topic>
+  <WorkflowDefinitionId>PersistWorkflow</WorkflowDefinitionId>
+</EsbWorkflowHost>

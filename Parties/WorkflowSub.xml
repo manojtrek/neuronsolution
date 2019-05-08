@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ESBSubscriber xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>74daf611-e00f-404d-8ef8-1f56d2e28f59</Id>
+  <Version>a855bab9-c1f0-4153-bde2-e9adda1192e4</Version>
+  <BusinessFlows />
+  <Description />
+  <Name>WorkflowSub</Name>
+  <Group>General</Group>
+  <IsSystemObject>false</IsSystemObject>
+  <Bindings />
+  <isAllowMultipleInstances>true</isAllowMultipleInstances>
+  <UseUniqueWmiCounterName>false</UseUniqueWmiCounterName>
+  <SubscriberId>WorkflowSub</SubscriberId>
+  <ClientGroup>General</ClientGroup>
+  <Zone>Enterprise</Zone>
+  <Enabled>true</Enabled>
+  <ACL />
+  <Anonymous>true</Anonymous>
+  <Subscriptions>
+    <Subscription>
+      <TopicName>Main2</TopicName>
+      <CanRead>true</CanRead>
+      <CanWrite>false</CanWrite>
+      <SubscriptionType>Topic</SubscriptionType>
+    </Subscription>
+  </Subscriptions>
+  <AllowMultipleInstances>true</AllowMultipleInstances>
+  <LogActivity>false</LogActivity>
+  <LogSession>true</LogSession>
+</ESBSubscriber>

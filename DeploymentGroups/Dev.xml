@@ -27,7 +27,7 @@
   <StateDatabase>MTALREJA06.Test1234</StateDatabase>
   <Units>
     <ESBDeploymentUnit>
-      <MachineName>mtalreja06</MachineName>
+      <MachineName>mtalreja12</MachineName>
       <IsESBServer>true</IsESBServer>
       <IsQueueServer>true</IsQueueServer>
     </ESBDeploymentUnit>

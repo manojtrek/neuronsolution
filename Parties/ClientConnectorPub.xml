@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ESBSubscriber xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Id>5b7bad06-9625-4c73-8cbd-856c877475cb</Id>
-  <Version>fddec724-dbe7-445d-93a2-f83d380463cd</Version>
+  <Version>bbc4604a-b460-4cae-8b6c-272f3a676dba</Version>
   <BusinessFlows />
   <Description />
   <Name>ClientConnectorPub</Name>

@@ -431,7 +431,7 @@
   <MsmqReceiveServicePort>50008</MsmqReceiveServicePort>
   <Clustered>true</Clustered>
   <ClusterDatabaseName>MTALREJA06.Test1234</ClusterDatabaseName>
-  <QueueServer>mtalreja06</QueueServer>
+  <QueueServer>mtalreja12</QueueServer>
   <ActiveDeploymentGroup>Dev</ActiveDeploymentGroup>
   <ClientPollingIntervalSec>15</ClientPollingIntervalSec>
   <ClientReportingExpirationIntervalSec>60</ClientReportingExpirationIntervalSec>

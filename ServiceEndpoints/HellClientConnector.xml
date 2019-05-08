@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ESBService xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Id>7f15a6c7-2536-49c4-8466-ec3a4729331f</Id>
-  <Version>3003024a-13e1-4cb0-9e20-3f55d6eb03de</Version>
+  <Version>3b6a369e-c60c-42d7-9c8a-3857faca7e05</Version>
   <BusinessFlows />
   <Description />
   <Name>HellClientConnector</Name>

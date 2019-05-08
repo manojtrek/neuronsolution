@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <EsbAvailabilityGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Id>996fe190-4427-467d-9d8b-4db2184c76b0</Id>
-  <Version>48048282-6520-44e4-be80-75181b3c9503</Version>
+  <Version>92e940a9-9c49-4193-b61d-da9b3947c334</Version>
   <BusinessFlows />
   <Description>Neuron ESB Default Host for Endpoints</Description>
   <Name>Neuron ESB Default Host</Name>
@@ -9,12 +9,13 @@
   <Category>General</Category>
   <RunAs />
   <IsEnabled>true</IsEnabled>
+  <RunInDocker>false</RunInDocker>
   <DeploymentGroups>
     <EsbAvailabilityGroupDeploymentGroupMapping>
       <DeploymentGroup>Dev</DeploymentGroup>
       <Servers>
         <DeploymentServer>
-          <ServerName>mtalreja06</ServerName>
+          <ServerName>mtalreja12</ServerName>
           <Role>Primary</Role>
           <RetryCount>0</RetryCount>
           <RetryInterval>0</RetryInterval>
